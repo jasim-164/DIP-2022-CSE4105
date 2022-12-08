@@ -2,7 +2,7 @@
 
 ## topics
 
-From Fahim Faisal
+## From Fahim Faisal
 
 ### 1. DPCM predictor
 
